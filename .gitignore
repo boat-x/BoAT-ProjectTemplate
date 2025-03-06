@@ -1,0 +1,11 @@
+/build
+/lib
+/BoAT-Engine
+/BoAT-SupportLayer
+.svn
+*.udb
+.scannerwork/
+.vscode/
+.o
+.obj
+.a
