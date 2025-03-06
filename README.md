@@ -171,7 +171,7 @@ input:
 Enter the blockchain that needs to be supported in the application here. Enter `1` to select the `ETHEREUM` blockchain. 
 
 ```
-input:9
+input:1
 Blockchain selected:
  [1] ETHEREUM
 
